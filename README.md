@@ -4,7 +4,7 @@
 - 📫 How to reach me https://www.facebook.com/shatterstar13
 - 📫 I'm also available on MAL https://myanimelist.net/profile/Shatterstar13
 
-[![shatterstar13's GitHub stats](https://github-readme-stats.vercel.app/api?username=shatterstar13's)]
+[![shatterstar13's GitHub stats](https://github-readme-stats.vercel.app/api?username=shatterstar13)]
 
 [![@shatterstar13's Holopin board](https://holopin.me/shatterstar13)](https://holopin.io/@shatterstar13)
 
